@@ -1,1 +1,1 @@
-tg://resolve?domain=TRX_AutoShop_Bot
+https://t.me/TRX_AutoShop_Bot
